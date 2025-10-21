@@ -2,7 +2,6 @@
 # ----------------------------------------------------------------------------------------
 # -- Docs: https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker --
 # ----------------------------------------------------------------------------------------
-version: "3.6"
 volumes:
   shared-workspace:
     name: "hadoop-distributed-file-system"
